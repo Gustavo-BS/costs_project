@@ -142,6 +142,17 @@
       "cost": 0,
       "services": [],
       "id": 13
+    },
+    {
+      "name": "Novo Projeee",
+      "budget": "123123",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 14
     }
   ],
   "categories": [
