@@ -12,8 +12,8 @@
       "id": 1
     },
     {
-      "name": "Teste edit",
-      "budget": "500000",
+      "name": "Teste edit att",
+      "budget": "54005",
       "category": {
         "id": "2",
         "name": "Development"
