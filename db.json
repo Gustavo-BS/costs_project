@@ -7,33 +7,8 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 102,
-      "services": [
-        {
-          "name": "novo servico",
-          "cost": "12",
-          "description": "teste",
-          "id": "ab0fe193-6969-4bd1-93d7-7b461d3e10ec"
-        },
-        {
-          "name": "novo servico",
-          "cost": "30",
-          "description": "teste",
-          "id": "23bc7ef8-b523-4434-9746-769b660c9f6a"
-        },
-        {
-          "name": "este 2",
-          "cost": "50",
-          "description": "Teste 2",
-          "id": "d6bf3d3c-67ff-4559-aa5c-26aff544b640"
-        },
-        {
-          "name": "Dev",
-          "cost": "10",
-          "description": "tttt",
-          "id": "6ac7d05a-525b-4c58-87f8-b5d8f9ceb376"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     },
     {
